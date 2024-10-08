@@ -1,0 +1,30 @@
+.avaImg {
+  width: 100%;
+  margin-bottom: 12px;
+}
+
+.name {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.5px;
+  letter-spacing: 0.04em;
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.isOnline,
+.isOffline {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.2;
+  letter-spacing: 0.04em;
+  text-align: center;
+}
+
+.isOnline {
+  color: green;
+}
+
+.isOffline {
+  color: red;
+}
